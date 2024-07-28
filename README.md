@@ -1,6 +1,6 @@
 # SPI-Interfacing
 
-SPI Interface in FPGA
+## SPI Interface in FPGA
 
 This project implements a Serial Peripheral Interface (SPI) Master on an FPGA using Verilog. SPI is a widely-used protocol for communication between microcontrollers and peripheral devices. This implementation demonstrates the fundamental concepts of SPI communication and provides a template for further development and customization.
 
